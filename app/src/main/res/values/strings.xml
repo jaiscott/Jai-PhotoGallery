@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PhotoGallery</string>
+    <string name="title">Title</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="offline_text">Entered Offline Mode</string>
+</resources>
